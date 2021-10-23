@@ -1,2 +1,2 @@
-# medallas
+# medalla
 Created with CodeSandbox
